@@ -1,0 +1,19 @@
+#Scalars
+Name: Chintu
+Age: 29
+Sex: Male
+---
+#Lists
+Hobbies:
+  - Reading Books
+  - Cooking Food
+  - Playing Cricket
+---
+#Mappings
+Favorite food:
+    veg: Pappu charu
+    Non-veg: Chicken And Mutton
+---
+#Multiline Scalars
+Tell me about yourself: |
+  hi this ravi im from jagtial i have done B.sc in 2015.i have 3 years professional experinace as adevops engineer.
